@@ -1,4 +1,4 @@
-# Exploring methods to identify proxy variables (ML)
+# Exploring methods to identify proxy variables
 Read the project paper [here](Final_Project_Report.pdf).
 
 Proxies are features of a dataset that can serve as indicators or substitutes for removed demographic attributes and can contribute to algorithmic discrimination within a machine learning model. In this project, we demonstrate four methods to identify proxies of demographic features: Pearson’s correlation, pairwise Cramer’s V, feature combinations, and feature redundancy (using FACET).
